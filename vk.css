@@ -96,3 +96,11 @@ font-size: 20px;
     }
 
 }
+
+#video{
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+  
+    overflow: hidden;
+}
