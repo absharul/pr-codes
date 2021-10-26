@@ -193,9 +193,9 @@ node *sll :: create(){
          prev->next=n;
        }
      cout<<"Do you want to insert more nodes? ";
-   cin>>ch;
+     cin>>ch;
  }while(ch=='y');
- return (head);
+  return (head);
 }
 node *sll:: merge(node *head1, node *head2)
 {
